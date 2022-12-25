@@ -1,9 +1,6 @@
 
 ## Javascript developer Course
 
-
-
-
 ### what is mern stack developer?
 
 A MERN stack developer is an expert in MongoDB, Express, React and Node. They are proficient in JavaScript and use HTML, CSS and JavaScript to handle front-end operations and JavaScript with Node. js to handle back-end operations.
@@ -26,7 +23,11 @@ HTML is a text-based approach to describing how content contained within an HTML
 
 #### What is a DOCTYPE in HTML?
 
-All HTML documents must start with a <!DOCTYPE> declaration. The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect. In HTML 5, the declaration is simple: <!
+All HTML documents must start with a <!DOCTYPE> declaration. The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect. In HTML 5, the declaration is simple: <!DOCTYPE>
+
+#### What is an element in a HTML?
+
+The <html> element is the root element and it defines the whole HTML document. It has a start tag <html> and an end tag </html> . Then, inside the <html> element there is a <body> element: <h1>My First Heading</h1> <p>My first paragraph.</p>.
 
 #### What are attributes in an HTML?
 
