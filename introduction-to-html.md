@@ -6,6 +6,8 @@ A MERN stack developer is an expert in MongoDB, Express, React and Node. They ar
 
 HTML stands for (Hyper Text Markup Language) · HTML is the standard markup language for creating Web pages. HTML is backbone website. HTML describes the structure of a Web page.
 
+HTML was first created by Tim Berners-Lee, Robert Cailliau, and others starting in 1989. It stands for Hyper Text Markup Language.
+
 we divide HTML abbreviation into two parts
 
 
@@ -20,7 +22,7 @@ HTML is a text-based approach to describing how content contained within an HTML
 
 #### What is a DOCTYPE in HTML?
 
-All HTML documents must start with a <!DOCTYPE> declaration. The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect. In HTML 5, the declaration is simple: <!DOCTYPE>
+All HTML documents must start with a <!DOCTYPE> declaration. The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect. In HTML 5, the declaration is simple: <!DOCTYPE html>
 
 #### What is an element in a HTML?
 
@@ -37,13 +39,11 @@ Attributes provide additional information about elements. Attributes are always 
 
 3.Notepad++
 
-4.Adobe Dreamweaver CC
+4.Atom
 
-5.Atom
+5.CoffeeCup HTML Editor
 
-6.CoffeeCup HTML Editor
-
-7.Netbeans
+6.Netbeans
 
 
 
