@@ -1,6 +1,3 @@
-
-## Javascript developer Course
-
 ### what is mern stack developer?
 
 A MERN stack developer is an expert in MongoDB, Express, React and Node. They are proficient in JavaScript and use HTML, CSS and JavaScript to handle front-end operations and JavaScript with Node. js to handle back-end operations.
